@@ -10,6 +10,9 @@ Steps to start with your project
 cd /Users/dewen/sandbox/project_1/
 ```
 3. Work on your web HTML files under the folder, i.e. index.html
+```
+echo '<h1>Project One</h1>' > index.html
+```
 4. Start your web server instance from current directory.
 ```
 docker run -p 8885:80 -v "$PWD":/var/www/html php:7.2-apache
