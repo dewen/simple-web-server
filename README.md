@@ -17,10 +17,11 @@ echo '<h1>Project One</h1>' > index.html
 ```
 docker run -p 8885:80 -v "$PWD":/var/www/html php:7.2-apache
 ````
-5. Check your web site on a browser.
+5. Check your web site on a browser. i.e.
 ```
-http://localhost:8885/index.html
+open http://localhost:8885/index.html
 ```
+*`open` command may not be available in your case, if so, just copy paste the url in your browser.*
 
 ## Apache and PHP
 ## Apache PHP MySQL
