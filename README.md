@@ -8,6 +8,7 @@ Steps to start with your project
 2. Go to your working directory. i.e. 
 ```
 cd /Users/dewen/sandbox/project_1/
+```
 3. Work on your web HTML files under the folder, i.e. index.html
 4. Start your web server instance from current directory.
 ```
