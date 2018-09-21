@@ -1,6 +1,12 @@
 # Simple-Web-Server
 
 Simple Web Server project uses Docker to quickly create environments for web development beginners.
+## Prerequisite 
+You need to install Docker on your computer first:
+* Mac
+  https://docs.docker.com/docker-for-mac/install/
+* Windows
+  https://docs.docker.com/docker-for-windows/install/
 
 ## Simple Apache
 Steps to start with your project
