@@ -19,5 +19,5 @@ docker run -p 8885:80 -v "$PWD":/var/www/html php:7.2-apache
 http://localhost:8885/index.html
 ```
 
-* Apache and PHP
-* Apache PHP MySQL
+## Apache and PHP
+## Apache PHP MySQL
